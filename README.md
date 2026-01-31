@@ -7,7 +7,6 @@
 | **Domain** | **Technologies** |
 | :--- | :--- |
 | **Languages** | Python, Java, C/C++|
-| **Web** | HTML5, CSS3, JavaScript, AngularJS |
 | **Tools & OS** | Git, Fish Shell, KDE Plasma, Arch Linux |
 
 ---
