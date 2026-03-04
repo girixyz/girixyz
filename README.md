@@ -7,7 +7,7 @@
 | **Domain** | **Technologies** |
 | :--- | :--- |
 | **Languages** | Python, Java, C/C++ |
-| **Tools & OS** | Git, Fish Shell, KDE Plasma, Arch Linux |
+| **Tools & OS** | Linux, Bash, Android Studio, Git |
 
 ---
 
