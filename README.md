@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=100&color=42d7f5&width=750&lines=Hi,+I'm+Girishan+B!;+Python+%7C+Linux+%7C+Data+Analysis+%7C+Full+Stack"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=100&color=42d7f5&width=750&lines=Hi,+I'm+Girishan!;+Python+%7C+Linux+%7C+Data+Analysis+%7C+Full+Stack"/>
 
 *cs undergrad · python · linux · full stack · data analysis*
 
