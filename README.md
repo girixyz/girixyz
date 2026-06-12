@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/736x/f8/30/bd/f830bd49de971679481fc155279b2a75.jpg" width="400" alt="Anime Home Office - Night City Coding Scene"/>
+<img src="https://i.pinimg.com/736x/de/73/a8/de73a8ef6859c968a067cdbf17c1c4a4.jpg" width="400" alt="Anime Home Office - Night City Coding Scene"/>
 </div>
 
 ---
