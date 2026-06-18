@@ -54,4 +54,3 @@
 | **Air Quality Prediction** | Linear Regression pipeline built on 29.5k+ records with IQR-based outlier correction for future AQI forecasting. | Python, Pandas |
 | **Medicamass EMR** | Full-stack electronic medical records web application for centralized patient data management. | HTML, CSS, JS, PHP, MySQL |
 | **RailVision AI** | Video processing workflow for frame-by-frame defect detection on moving railway wagons. | Python, OpenCV, YOLO |
-| **NLP Text Classification** | Machine learning project for spam/ham message classification utilizing text preprocessing and feature extraction. | Python, Pandas, NumPy, Jupyter |
