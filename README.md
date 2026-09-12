@@ -7,7 +7,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=100&color=FFFFFF&width=750&lines=Hi,+I'm+Girishan!;+Python+%7C+Linux+%7C+Data+Analysis+%7C+Full+Stack"/>
 
-*cs undergrad · python · linux · full stack · data analysis*
+*data engineering · python · SQL· linux · QA · data analysis*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girishan-b-a741ab386)
 [![Gmail](https://img.shields.io/badge/Mail-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:girishan.ahmd@gmail.com)
